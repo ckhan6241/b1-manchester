@@ -1,4 +1,6 @@
 # Task B: Masterpiece - What Color is Manchester?
+Hosted on github pages [here](https://ckhan6241.github.io/b1-manchester/)
+
 ## Setup
 Launch simple python server by (assumed python3)
 ```
